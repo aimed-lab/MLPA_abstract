@@ -11,4 +11,4 @@ Clinical Impact: Unlike black-box alternatives, 3D-MLPA enables clinicians to in
 Conclusion: Overall, 3D-MLPA reveals that digital twin technology can bridge the accuracy-interpretability gap in cancer, achieving competitive predictive performance while offering the mechanistic insights required for precision medicine decision-making. 
 
 Future work: While our aim is a full-scale of patient-specific tumor evolution, the present framework represents an initial step. Future work will integrate biochemical feedback loops, such as incorporating genomic alterations (e.g., EGFR or KRAS status) into tumor growth dynamics, to enable multi-scale, personalized modeling.
-<img width="468" height="603" alt="image" src="https://github.com/user-attachments/assets/273e5727-f5ab-434a-9ce8-4f33137fe5be" />
+
