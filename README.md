@@ -217,8 +217,10 @@ Tests model robustness by perturbing α and β by ±10%, ±20%:
 
 ## 📧 Contact
 
-**Author:** Huu Phong Nguyen (hnguye24 AT uab DOT edu) 
+**Author:** Huu Phong Nguyen (hnguye24 AT uab DOT edu)
+
 **Affiliation:** SPARC (Systems Pharmacology AI Research Center), UAB  
+
 **Project:** Lung Cancer MLPA Framework
 
 ---
