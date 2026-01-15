@@ -1,9 +1,11 @@
-# MLPA: A Framework Modeling for Non-Small Cell Lung Cancer Survival Prediction 
+# MLPA Digital Twin Survival Analysis for NSCLC
 
-A comprehensive survival analysis framework integrating **3-D Multi-Level Parameterized Automata (MLPA)** simulations with radiomics, clinical, and deep learning features for **Non-Small Cell Lung Cancer (NSCLC)** prognosis prediction.
+A comprehensive survival analysis framework integrating **Multi-Level Parameterized Automata (MLPA) ** simulations with radiomics, clinical, and deep learning features for **Non-Small Cell Lung Cancer (NSCLC)** prognosis prediction.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> ** [Try the Interactive Demo](https://smartdrugdiscovery.org/mlpa)** - Visualize 2-D tumor growth simulation in your browser!
 
 ---
 
